@@ -1,0 +1,17 @@
+{
+  "name": "react-remote",
+  "description": "React component that renders RemoteData monad",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "@sbizeul/fp-flow": "^0.2.0"
+  },
+  "devDependencies": {
+    "flow-bin": "^0.84.0",
+    "tape": "^4.9.1"
+  },
+  "peerDependencies": {
+    "react": "^16.6.0"
+  }
+}
